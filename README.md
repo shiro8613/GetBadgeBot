@@ -1,6 +1,6 @@
 # GetBadgeBot
 
-#Discordアクティブデベロッパーバッジを取得するためのBot
+# Discordアクティブデベロッパーバッジを取得するためのBot
 
 1. まず[GithubRelease](https://github.com/shiro8613/GetBadgeBot/releases)から最新の`GetBadgeBot.jar`を落とします。
 
